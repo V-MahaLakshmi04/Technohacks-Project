@@ -1,0 +1,27 @@
+body{
+    background-color:black;
+    color: white;
+    font-family: sans-serif,Arial, Helvetica, sans-serif
+}
+button:hover{
+    background-color:aqua;
+    color:black;
+}
+div:hover{
+    background-color:black;
+    color:aqua;
+}
+h1{
+    background-color:black;
+    color:aqua
+
+}
+h2{
+    background-color:black;
+    color:aqua
+
+}
+p5:hover{
+     background-color:black;
+    color:aqua
+}
